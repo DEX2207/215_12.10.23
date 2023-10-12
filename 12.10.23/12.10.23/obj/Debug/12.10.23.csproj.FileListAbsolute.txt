@@ -1,0 +1,8 @@
+D:\Лунгу проекты\12.10.23\12.10.23\bin\Debug\12.10.23.exe.config
+D:\Лунгу проекты\12.10.23\12.10.23\bin\Debug\12.10.23.exe
+D:\Лунгу проекты\12.10.23\12.10.23\bin\Debug\12.10.23.pdb
+D:\Лунгу проекты\12.10.23\12.10.23\obj\Debug\12.10.23.csproj.AssemblyReference.cache
+D:\Лунгу проекты\12.10.23\12.10.23\obj\Debug\12.10.23.csproj.SuggestedBindingRedirects.cache
+D:\Лунгу проекты\12.10.23\12.10.23\obj\Debug\12.10.23.csproj.CoreCompileInputs.cache
+D:\Лунгу проекты\12.10.23\12.10.23\obj\Debug\12.10.23.exe
+D:\Лунгу проекты\12.10.23\12.10.23\obj\Debug\12.10.23.pdb
